@@ -34,9 +34,12 @@ Find the following on a per symbol basis:
 - Weighted Average Price.  Average price per unit traded not per trade.
   Result should be truncated to whole numbers.
 
-  Example: the following trades
+  **Example:** the following trades
+  
 	20 shares of aaa @ 18
+	
 	5 shares of aaa @ 7
+	
 	Weighted Average Price = ((20 * 18) + (5 * 7)) / (20 + 5) = 15
 
 ### Output:
