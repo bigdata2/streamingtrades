@@ -20,7 +20,8 @@ TimeStamp,  Symbol,  Quantity,  Price
 - Price - our currency is an integer based currency.  No decimal points.
 - Price - Price is always > 0.
 
-Example: here is a row for a trade of 10 shares of aaa stock at a price of 12 
+**Example:** here is a row for a trade of 10 shares of aaa stock at a price of 12 
+
 1234567,aaa,10,12
 
 ### Implementation:
